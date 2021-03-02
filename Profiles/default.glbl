@@ -4,4 +4,24 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://taskdev.mile.app/login'</initValue>
+      <name>basePage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'testonboard'</initValue>
+      <name>orgName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'AndhikaSinaga'</initValue>
+      <name>dummyUsername</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Drdf0uXxbmUFvNZ+VZZhWQ=='</initValue>
+      <name>dummyPassword</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
