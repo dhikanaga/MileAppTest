@@ -10,7 +10,7 @@
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n  \&quot;org_name\&quot;:\&quot;testonboard\&quot;\n}&quot;,
+  &quot;text&quot;: &quot;{\n  \&quot;org_name\&quot;:\&quot;testonboar\&quot;\n}&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>
